@@ -1,4 +1,4 @@
-# Llanquihue Tour - Sistema de Gestión Operativa (EFT)
+# Llanquihue Tour - Sistema de Gestión Operativa 
 
 Este repositorio contiene el prototipo modular desarrollado para la agencia **Llanquihue Tour** (Sede Llanquihue, Región de Los Lagos), correspondiente a la 
 
