@@ -1,0 +1,4 @@
+CLIENTE;11111111-1;Juan Alcaino;Av. El Abrazo 123;Maipu;Premium
+PROVEEDOR;22222222-2;Turismo Lagos S.A.;Costanera 456;Llanquihue;Transporte
+CLIENTE;333;Camila Gomez;Picarte 789;Valdivia;Turista Habitual
+PROVEEDOR;44444444-4;Hotel Tronador;Ensenada Km 12;Puerto Varas;Alojamiento
